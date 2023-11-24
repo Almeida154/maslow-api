@@ -1,0 +1,20 @@
+{
+  "name": "maslow-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Almeida154/maslow-api.git",
+  "author": "Almeida154 <davidalmeida154of@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.9.5",
+    "prisma": "^5.6.0",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.3.2"
+  },
+  "dependencies": {
+    "@fastify/cors": "^8.4.1",
+    "@prisma/client": "^5.6.0",
+    "fastify": "^4.24.3",
+    "ts-node-dev": "^2.0.0"
+  }
+}
