@@ -1,15 +1,15 @@
 type TUser = {
-  id?: string;
+  id: number;
   name: string;
   email: string;
-  password?: string | null;
+  password: string;
 };
 
 export class User {
-  id?: string;
+  id: number;
   name: string;
   email: string;
-  password?: string | null;
+  password: string;
 
   constructor({ id, name, email, password }: TUser) {
     this.id = id;

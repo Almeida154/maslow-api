@@ -11,18 +11,15 @@ export class PrismaUserRepository implements UserContract {
   }
 
   async create(user: User): Promise<User> {
-    const createdUser = await this._prisma.user.create({ data: user });
-    return createdUser;
+    const created = await this._prisma.user.create({ data: user });
+    return created;
   }
 
   async findByEmail(email: string): Promise<User | null> {
-    const userFound: User | null = await this._prisma.user.findFirst({
+    const found: User | null = await this._prisma.user.findFirst({
       where: { email },
-      include: {
-        hero: true,
-      },
     });
 
-    return userFound;
+    return found;
   }
 }
