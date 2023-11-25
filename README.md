@@ -1,7 +1,7 @@
 <br>
 
 <h1 align="center">
-    <img alt="Maslow" title="Maslow" src=".github/logo.svg" width="220px" />
+  <img alt="Maslow" title="Maslow" src=".github/logo.svg" width="220px" />
 </h1>
 
 <br>
@@ -15,15 +15,15 @@
 </p>
 
 <p align="center">
-    <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=9871F5&labelColor=6842C2">
-    <img alt="Repository size" src="https://img.shields.io/github/repo-size/Almeida154/proffy?color=9871F5&labelColor=6842C2">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=9871F5&labelColor=6842C2">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Almeida154/proffy?color=9871F5&labelColor=6842C2">
 </p>
 
 <p align="center">
   <img alt="Grid" src=".github/grid.png" width="60%">
 </p>
 
-<br>
+<br><br><br>
 
 ### 🤳 Sobre
 
@@ -39,7 +39,7 @@ Por meio de uma interface intuitiva e acessível, o Maslow se torna uma aliada d
 
 Em um mundo cada vez mais digital buscamos não apenas prevenir e gerenciar desequilíbrios emocionais, mas também fornecer um espaço seguro e eficaz para os usuários fortalecerem sua resiliência emocional e alcançarem um estado de bem-estar duradouro.
 
-Clique [aqui](https://www.figma.com/file/1FatXWKhk5GiMmHMDMIz7z/Maslow?type=design&node-id=0%3A1&mode=design&t=Oa6cEoHX0UTYMA2R-1) para navegar no protótipo no **Figma**. E [aqui](https://www.figma.com/proto/1FatXWKhk5GiMmHMDMIz7z/Maslow?type=design&node-id=21-3&t=Oa6cEoHX0UTYMA2R-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=25%3A7&hide-ui=1) para interagir dinamicamente com o aplicativo.
+Clique [aqui](https://www.figma.com/file/1FatXWKhk5GiMmHMDMIz7z/Maslow?type=design&node-id=0%3A1&mode=design&t=Oa6cEoHX0UTYMA2R-1) para navegar livremente no protótipo do **Figma** e [aqui](https://www.figma.com/proto/1FatXWKhk5GiMmHMDMIz7z/Maslow?type=design&node-id=21-3&t=Oa6cEoHX0UTYMA2R-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=25%3A7&hide-ui=1) para interagir dinamicamente com o aplicativo.
 
 <br>
 
@@ -84,7 +84,7 @@ O código possui 277 linhas e passou no Quality Gate, estaria apto para ir para 
 <br>
 
 <p align="center">
-  <img alt="Grid" src=".github/SonarCloud.png" width="100%">
+  <img alt="Grid" src=".github/SonarCloud.png" width="90%">
 </p>
 
 <br>
