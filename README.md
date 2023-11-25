@@ -19,11 +19,13 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Almeida154/proffy?color=9871F5&labelColor=6842C2">
 </p>
 
+<br>
+<br>
+
 <p align="center">
   <img alt="Grid" src=".github/grid.png" width="60%">
 </p>
 
-<br>
 <br>
 <br>
 
