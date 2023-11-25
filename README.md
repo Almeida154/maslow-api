@@ -84,7 +84,7 @@ O código possui 277 linhas e passou no Quality Gate, estaria apto para ir para 
 <br>
 
 <p align="center">
-  <img alt="Grid" src=".github/SonarCloud.png" width="60%">
+  <img alt="Grid" src=".github/SonarCloud.png" width="100%">
 </p>
 
 <br>
