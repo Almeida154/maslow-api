@@ -1,7 +1,7 @@
 <br>
 
 <h1 align="center">
-    <img alt="Contacts" title="Contacts" src=".github/brand.svg" width="220px" />
+    <img alt="Maslow" title="Maslow" src=".github/logo.svg" width="220px" />
 </h1>
 
 <br>
@@ -17,12 +17,13 @@
 <p align="center">
     <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=9871F5&labelColor=6842C2">
     <img alt="Repository size" src="https://img.shields.io/github/repo-size/Almeida154/proffy?color=9871F5&labelColor=6842C2">
-    [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Almeida154_maslow-api&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Almeida154_maslow-api)
 </p>
 
 <p align="center">
   <img alt="Grid" src=".github/grid.png" width="60%">
 </p>
+
+<br>
 
 ### 🤳 Sobre
 
@@ -70,6 +71,26 @@ $ yarn  # instale as dependências
 $ docker-compose up -d  # suba os containers no docker
 ```
 
-### 🧑‍💻 Relatório do SonarCloud
+<br>
 
-opa
+### 📄 Relatório do SonarCloud (DevOps)
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Almeida154_maslow-api&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Almeida154_maslow-api)
+
+<br>
+
+O código possui 277 linhas e passou no Quality Gate, estaria apto para ir para produção. Nenhum Code Smell, Vulnerability ou Security Hotspot. O repositório ganhou nota A em todas as métricas. Ganhou algumas observações de qualidade de código, como variáveis não utilizadas.
+
+<br>
+
+<p align="center">
+  <img alt="Grid" src=".github/SonarCloud.png" width="60%">
+</p>
+
+<br>
+
+### 🕺 Colaboradores
+
+- [David Almeida Santos](https://www.linkedin.com/in/almeida154/) (RM96033)
+- [Bruno Roberto](https://www.linkedin.com/in/brunornsousa/) (RM95757)
+- Rafael Aurichi (RM96169)
