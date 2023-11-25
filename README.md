@@ -23,7 +23,9 @@
   <img alt="Grid" src=".github/grid.png" width="60%">
 </p>
 
-<br><br><br>
+<br>
+<br>
+<br>
 
 ### 🤳 Sobre
 
@@ -84,7 +86,7 @@ O código possui 277 linhas e passou no Quality Gate, estaria apto para ir para 
 <br>
 
 <p align="center">
-  <img alt="Grid" src=".github/SonarCloud.png" width="90%">
+  <img alt="Grid" src=".github/sonar-cloud.png" width="100%">
 </p>
 
 <br>
